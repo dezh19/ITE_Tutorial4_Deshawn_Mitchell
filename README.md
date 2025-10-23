@@ -88,6 +88,9 @@ By completing this tutorial, you will:
 
 Collaborators
 - **Deshawn Mitchell** (repository owner)  
-- **Akash Persaud** (reviewer)  
+- **Akash Persaud** (reviewer)
+
+  
+ ******************** easter egg (npm start interminal) to launch the Trademark.html.************************
 
 
